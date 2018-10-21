@@ -14,7 +14,7 @@ features:
 
   - heading: 短代码
     image_path: /images/icon-shortcodes.svg
-    tagline: Hugo短代码是 Markdown 隐藏的强大功能。
+    tagline: Hugo 短代码是 Markdown 隐藏的强大功能。
     copy: 我们喜欢美丽简洁的 markdown 语法，但是有时候我们也想要更灵活一些。Hugo 短代码允许既美丽又灵活。
 
   - heading: 内置模板
